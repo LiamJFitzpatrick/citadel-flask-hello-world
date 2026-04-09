@@ -1,0 +1,9 @@
+user_id,signup_date,last_active_date,plan,monthly_revenue,churned,country,acquisition_channel
+1,2024-01-10,2024-03-01,pro,49,false,US,organic
+2,2024-02-15,2024-02-20,basic,19,true,US,ads
+3,2024-01-05,2024-03-10,pro,49,false,UK,referral
+4,2024-03-01,2024-03-05,free,0,false,CA,organic
+5,2024-01-20,2024-02-01,basic,19,true,US,ads
+6,2024-02-10,2024-03-12,pro,49,false,DE,organic
+7,2024-01-25,2024-01-30,basic,19,true,FR,ads
+8,2024-02-28,2024-03-15,free,0,false,US,referral

@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+ENV/
+.venv/
+
+# Environment variables
+.env
+.flaskenv
+
+# Testing and coverage
+.pytest_cache/
+.coverage
+htmlcov/
+nosetests.xml
+coverage.xml
+
+# Distribution and packaging
+dist/
+build/
+*.egg-info/
+
+# Editors and IDEs (adjust as needed)
+.idea/  # PyCharm
+.vscode/ # VS Code
+*.swp
+*~
+.ropeproject
+.spyderproject
+
+# OS-generated files
+.DS_Store
+Thumbs.db
